@@ -21,7 +21,6 @@
 
 #### **데이터 불러오기**
 <pre><code>fake_df = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/News_Fake_and_Real_Fake.csv')
-
 true_df = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/News_Fake_and_Real_True.csv')
 </code></pre>
 
