@@ -1,0 +1,5 @@
+cnn_daily_mail_train.csv filter=lfs diff=lfs merge=lfs -text
+cnn_daily_mail_validation.csv filter=lfs diff=lfs merge=lfs -text
+cnn_daily_mail_test.csv filter=lfs diff=lfs merge=lfs -text
+News_Fake_and_Real_Fake.csv filter=lfs diff=lfs merge=lfs -text
+News_Fake_and_Real_True.csv filter=lfs diff=lfs merge=lfs -text
