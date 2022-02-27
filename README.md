@@ -24,20 +24,7 @@
 true_df = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/News_Fake_and_Real_True.csv')
 </code></pre>
 
-## #3. CNN 뉴스 요약 
-
-<pre><code>- id: <i>str</i>, id
-- article: <i>str</i>, 기사 본문
-- highlights: <i>str</i>, 요약본
-</code></pre>
-
-#### **데이터 불러오기**
-<pre><code>cnn_train = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/cnn_daily_mail_train.csv')
-cnn_val = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/cnn_daily_mail_validation.csv')
-cnn_test = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution6/master/data/cnn_daily_mail_test.csv')
-</code></pre>
-
-## **#4 문장에 대한 유사도**
+## **#3 문장에 대한 유사도**
 
 <pre><code>- description_x: <i>str</i>, 문장 x
 - description_y: <i>str</i>, 문장 y
