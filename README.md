@@ -39,7 +39,7 @@ train = pd.read_csv('https://raw.githubusercontent.com/fintech-data/Revolution6/
 </code></pre>
 
 
-## **#4. 추천시스템 데이터 **
+## #4. 추천시스템 데이터
 
 ### 4-1) 넷플릭스 데이터
 <pre><code>imdb_id : Unique show identifier.
